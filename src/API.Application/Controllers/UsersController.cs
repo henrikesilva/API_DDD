@@ -10,8 +10,14 @@ namespace API.Application.Controllers
     [ApiController]
     public class UsersController : ControllerBase
     {
+        private IUserService _userService;
+        public UsersController(IUserService userService)
+        {
+            _userService = userService;
+        }
+
         [HttpGet]
-        public async Task<ActionResult> GetAll([FromServices] IUserService service)
+        public async Task<ActionResult> GetAll()
         {
             if (!ModelState.IsValid)
             {
@@ -20,7 +26,7 @@ namespace API.Application.Controllers
 
             try
             {
-                return Ok(await service.GetAll());
+                return Ok(await _userService.GetAll());
             }
             catch (ArgumentException ex)
             {

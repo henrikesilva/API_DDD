@@ -94,7 +94,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj"
+              },
+              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj"
+              },
+              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -106,6 +116,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -283,9 +299,6 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\CrossCutting.csproj"
-              },
               "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj": {
                 "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj"
               },
