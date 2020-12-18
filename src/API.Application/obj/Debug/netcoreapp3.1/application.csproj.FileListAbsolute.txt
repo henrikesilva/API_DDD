@@ -70,4 +70,9 @@ C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\bin\Debug\
 C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
