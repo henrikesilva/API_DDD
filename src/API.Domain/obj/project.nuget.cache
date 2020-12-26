@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "t6HxjRlu03L1Mf1g6xgfSvm7IxiY7RapU/YLnR2nR2OLkiQIWSWBE9kcfPp7SyfaYb98Wj6jRJWAKyLUt5OQdA==",
+  "dgSpecHash": "cKyM0GTz7SSry7b4dml58n9amcrLLC7jPI3NOof6S2Bv2dbqqBt14+bR33Rd5ITWBAJ04BfA02/T7dDDFPJXYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rique\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\rique\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\rique\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\rique\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\rique\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\rique\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
