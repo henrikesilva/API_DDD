@@ -1,3 +1,4 @@
+using System;
 using API.Data.Mapping;
 using API.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
@@ -14,6 +15,17 @@ namespace API.Data.Context
         {
             base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<UserEntity>(new UserMap().Configure);
+
+            modelBuilder.Entity<UserEntity>().HasData(
+                new UserEntity
+                {
+                    Id = Guid.NewGuid(),
+                    Name = "Administrador",
+                    Email = "email@example.com",
+                    CreateAt = DateTime.Now,
+                    UpdateAt = DateTime.Now
+                }
+            );
         }
     }
 }
