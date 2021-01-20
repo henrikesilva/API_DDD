@@ -76,4 +76,4 @@ C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\
 C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\application.dll
 C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\application.pdb
 C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\application.genruntimeconfig.cache
-C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\application.styles.css
+C:\Users\rique\Documents\Temp\Courses\api_NetCore\src\API.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css

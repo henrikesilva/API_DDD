@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BPfbgxdKPYDH+JMdgWhc25lfSkDxd6XW/BuAPNKpRd2Jx38SGsTdYsnG60c7LhpPJFpy9MQEdDtmT9aab+StCw==",
+  "dgSpecHash": "qnFR+OuRX++o5EnF552CogfDv/03at46iRIRLVvy8oq1X/+6ZEK/a21FG3EaiZHuqbMRyTcvzmybvY3P88CsPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Application\\application.csproj",
+  "projectFilePath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rique\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rique\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
