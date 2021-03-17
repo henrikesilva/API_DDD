@@ -10,7 +10,7 @@ namespace API.Data.Context
             //Usado para criar as Migrations
 
             //var connectionString = "Server=localhost;Port=3306;Database=dbAPI;Uid=root;Pwd=H3nryl1m@";
-            var connectionString = "Data Source=DESKTOP-3NBE5J3;Initial Catalog=dbapi;Integrated Security=True";
+            var connectionString = "Data Source=4D8MH53NMTZ;Initial Catalog=BaseDados;Integrated Security=True";
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
             //optionsBuilder.UseMySql(connectionString);
             optionsBuilder.UseSqlServer(connectionString);

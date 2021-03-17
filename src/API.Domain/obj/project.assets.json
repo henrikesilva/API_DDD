@@ -283,19 +283,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rique\\.nuget\\packages\\": {}
+    "C:\\Users\\henrique.slima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\rique\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\obj\\",
+      "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\henrique.slima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\henrique.slima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -341,7 +341,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

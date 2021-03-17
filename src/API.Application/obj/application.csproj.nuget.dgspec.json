@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Application\\Application.csproj": {}
+    "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Application\\Application.csproj": {
+    "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\rique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Application\\obj\\",
+        "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\henrique.slima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrique.slima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,14 +28,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\CrossCutting.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj"
               },
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\Service.csproj"
               }
             }
           }
@@ -77,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\CrossCutting.csproj": {
+    "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\rique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.CrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\henrique.slima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrique.slima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -105,14 +105,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj"
               },
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj"
               },
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\Service.csproj"
               }
             }
           }
@@ -151,21 +151,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj": {
+    "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\rique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\obj\\",
+        "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\henrique.slima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrique.slima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -179,8 +179,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj"
               }
             }
           }
@@ -231,21 +231,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj": {
+    "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\rique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\obj\\",
+        "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\henrique.slima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrique.slima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -291,21 +291,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj": {
+    "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\rique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Service\\obj\\",
+        "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\henrique.slima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\henrique.slima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -319,11 +319,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj"
               },
-              "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj"
+              "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj"
               }
             }
           }
@@ -358,7 +358,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

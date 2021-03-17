@@ -24,7 +24,7 @@ namespace API.Data.Test
             var serviceCollection = new ServiceCollection();
             serviceCollection.AddDbContext<MyContext>(o =>
                 //o.UseSqlServer($"Persist Security Info=True;Server=localhost;Database={dataBaseName};User=rique;PassWord=H3nryl1m@"),
-                o.UseSqlServer($"Data Source=DESKTOP-3NBE5J3;Initial Catalog={dataBaseName};Integrated Security=True"),
+                o.UseSqlServer($"Data Source=4D8MH53NMTZ;Initial Catalog={dataBaseName};Integrated Security=True"),
                   ServiceLifetime.Transient
             );
 

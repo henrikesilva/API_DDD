@@ -5421,19 +5421,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rique\\.nuget\\packages\\": {}
+    "C:\\Users\\henrique.slima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\Data.csproj",
-      "packagesPath": "C:\\Users\\rique\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Data\\obj\\",
+      "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\henrique.slima\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\henrique.slima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5447,8 +5447,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\rique\\Documents\\Temp\\Courses\\api_NetCore\\src\\API.Domain\\Domain.csproj"
+            "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\henrique.slima\\Documents\\Temp\\API_DDD\\src\\API.Domain\\Domain.csproj"
             }
           }
         }
@@ -5499,7 +5499,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
